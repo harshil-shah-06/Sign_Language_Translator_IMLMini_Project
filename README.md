@@ -28,8 +28,8 @@ HELLO, YES, NO, THANK_YOU, OK, STOP. These are static hand shapes chosen for thi
 Requires **Python 3.12** and a webcam. Newer MediaPipe releases removed the API used here, so keep the pinned version and use Python 3.9 to 3.12.
 
 ```bash
-git clone https://github.com/<your-username>/sign-language-to-speech-translator.git
-cd sign-language-to-speech-translator
+git clone https://github.com/harshil-shah-06/Sign_Language_Translator_IMLMini_Project.git
+cd Sign_Language_Translator_IMLMini_Project
 python -m pip install -r requirements.txt
 ```
 
